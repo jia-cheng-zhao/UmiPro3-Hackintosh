@@ -24,35 +24,9 @@
 		<key>On Wake</key>
 		<false/>
 		<key>Param</key>
-		<string>0x24</string>
+		<string>0x20</string>
 		<key>Verb</key>
 		<string>SET_PIN_WIDGET_CONTROL</string>
-	</dict>
-	<dict>
-		<key>Comment</key>
-		<string>Enable combo jack mic detection</string>
-		<key>Enabled</key>
-		<true/>
-		<key>Node ID</key>
-		<string>0x21</string>
-		<key>On Boot</key>
-		<false/>
-		<key>On Connect</key>
-		<true/>
-		<key>On Disconnect</key>
-		<false/>
-		<key>On Mute</key>
-		<false/>
-		<key>On Sleep</key>
-		<false/>
-		<key>On Unmute</key>
-		<false/>
-		<key>On Wake</key>
-		<false/>
-		<key>Param</key>
-		<string>0x82</string>
-		<key>Verb</key>
-		<string>SET_UNSOLICITED_ENABLE</string>
 	</dict>
 	<dict>
 		<key>Comment</key>
@@ -79,32 +53,6 @@
 		<string>0x00</string>
 		<key>Verb</key>
 		<string>SET_PIN_WIDGET_CONTROL</string>
-	</dict>
-	<dict>
-		<key>Comment</key>
-		<string>Disable combo jack mic detection</string>
-		<key>Enabled</key>
-		<true/>
-		<key>Node ID</key>
-		<string>0x21</string>
-		<key>On Boot</key>
-		<false/>
-		<key>On Connect</key>
-		<false/>
-		<key>On Disconnect</key>
-		<true/>
-		<key>On Mute</key>
-		<false/>
-		<key>On Sleep</key>
-		<false/>
-		<key>On Unmute</key>
-		<false/>
-		<key>On Wake</key>
-		<false/>
-		<key>Param</key>
-		<string>0x83</string>
-		<key>Verb</key>
-		<string>SET_UNSOLICITED_ENABLE</string>
 	</dict>
 </array>
 </plist>
