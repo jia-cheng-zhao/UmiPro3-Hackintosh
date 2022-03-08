@@ -1,7 +1,5 @@
 # UmiPro3-Hackintosh
 
-
-
 ## Configuration
 
 ### Tongfang GM5MG0Y
@@ -25,7 +23,7 @@
 - Thanks to [black-dragon74](https://github.com/black-dragon74) for providing [ALCPlugFix-Swift](https://github.com/black-dragon74/ALCPlugFix-Swift).
 - Thanks to [corpnewt](https://github.com/corpnewt) for providing [USBMap](https://github.com/corpnewt/USBMap).
 - Thanks to [daliansky](https://github.com/daliansky) for providing [OC-little](https://github.com/daliansky/OC-little).
-- Thanks to [kirainmoe](https://github.com/kirainmoe) for providing [Tongfang Utility](https://github.com/kirainmoe/tongfang-utility).
+- Thanks to [kirainmoe](https://github.com/kirainmoe) for providing [tongfang-utility](https://github.com/kirainmoe/tongfang-utility) and [tongfang-macos](https://github.com/kirainmoe/tongfang-macos).
 - Thanks to [Mieze](https://github.com/Mieze) for providing [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet).
 - Thanks to [OpenIntelWireless](https://github.com/OpenIntelWireless) for providing [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) and [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware).
 - Thanks to [stevezhengshiqi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh/commits?author=stevezhengshiqi) for providing [XiaoMi-Pro-Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh).
