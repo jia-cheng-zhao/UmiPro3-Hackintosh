@@ -1,7 +1,5 @@
 # Guide
 
-------
-
 ## Download
 
 https://github.com/black-dragon74/ALCPlugFix-Swift/releases
