@@ -1,4 +1,4 @@
-# Usage
+# Guide
 
 ------
 
@@ -13,4 +13,3 @@ $ ./install.sh
 Then, drop umipro3_alc274.plist to the shell.
 ```
 ## Reboot and Enjoy
-
