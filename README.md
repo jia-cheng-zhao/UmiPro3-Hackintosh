@@ -8,12 +8,13 @@
 | ------------------- | --------------------------------- |
 | Computer model      | Mechrevo UmiPro3 15.6'' (10Gen)   |
 | Processor           | Intel Core i7-10875H Processor    |
-| Memory              | 16/32GB Samsung DDR4 2933MHz      |
-| Hard Disk           | WestDigital SN750 |
-| Integrated Graphics | Intel UHD Graphics 630            |
+| Memory              | 32GB Samsung DDR4 2933MHz         |
+| Hard Disk           | WestDigital SN750                 |
+| Integrated Graphic  | Intel UHD Graphics 630            |
 | Monitor             | BOE FHD 1920x1080 (15.6 inch)     |
 | Sound Card          | Realtek ALC274                    |
 | Wireless Card       | Intel Wireless AX201              |
+| Ethernet Controller | Realtek RTL8125                   |
 | SD Card Reader      | Realtek                           |
 
 ## Credits
