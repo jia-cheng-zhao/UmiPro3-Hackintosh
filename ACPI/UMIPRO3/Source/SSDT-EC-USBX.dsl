@@ -1,5 +1,3 @@
-// Necessary hotpatch
-// Reference: https://github.com/acidanthera/OpenCorePkg/tree/master/Docs/AcpiSamples/Source by ACDT
 /*
  * AppleUsbPower compatibility table for Skylake+.
  *
@@ -22,7 +20,6 @@
  * Reference USB: https://applelife.ru/posts/550233
  * Reference EC: https://applelife.ru/posts/807985
  */
-
 DefinitionBlock ("", "SSDT", 2, "ACDT", "SsdtEC", 0x00001000)
 {
     External (_SB_.PCI0.LPCB, DeviceObj)
